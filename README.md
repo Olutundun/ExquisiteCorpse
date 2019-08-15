@@ -8,6 +8,6 @@ C#
 ![](img1.JPG)
 
 ## if the users enters 'no':
-![](img1.JPG)
+![](img2.JPG)
 
 
