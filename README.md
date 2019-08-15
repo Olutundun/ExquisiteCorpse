@@ -7,7 +7,7 @@ C#
 ## if the user enters 'yes':
 ![](img1.JPG)
 
-## if the users enters 'no':
+## if the user enters 'no':
 ![](img2.JPG)
 
 
